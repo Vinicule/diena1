@@ -1,5 +1,5 @@
 // iš anksto atsiprašau kad visi variables yra angliškai, tiesiog paskui savo šitą testą persikomentuosiu angliškai nes taip man lengviau suprasti ką darau :D
-
+//sample text for changes
 // 1.1 Sukurkite funkciją, kuri paverstų eurus į dolerius.
 // Sugeneruokite atsitiktinį skaičių (eurų sumą) nuo 1 iki 1000.
 // Pritaikykite savo sukurtą funkciją ir išspausdinkite atitikmenį doleriais.
